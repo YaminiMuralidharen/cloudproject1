@@ -2,7 +2,7 @@
 cloud project crud
 Course	Cloud Technologies
 Professor	Sanjay Garje
-
+ 
 ISA	Divyankitha Urs
 
 Linkedin profile	https://www.linkedin.com/in/yaminimuralidharen
@@ -32,3 +32,12 @@ k)	HTML
 l)	CSS
 m)	Thymeleaf -templating engine
 PUBLIC URL: http://yaminivijayasjsu.net/
+
+*Create a spring boot application and package as jar file using
+mvn clean install
+configure elastic bean stack for instances with auto scaling and load balancing,
+Upload jar file to elastic bean stack 
+Deploy the file and test in elastic bean stack url
+
+
+
